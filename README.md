@@ -67,9 +67,8 @@ screen and (orientation: landscape) {
 <body onload="alert('雪路はんなりの会の記録〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 <div>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 各クラス名簿 !!!</marquee></span></h1>
-<p><a href="https://torokoid.github.io/home">Home</a>>はんなりの会</p>
-
+<h1><span class="yellow"><marquee behavior="alternate">!!! クラス会名簿 !!!</marquee></span></h1>
+<p><a href="https://torokoid.github.io/home">Home</a>>2019年同期会><a href="https://torokoid.github.io/kanreki">還暦祝い＠池袋</a>>クラス会名簿</a></p>
 
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
