@@ -29,7 +29,7 @@ display: none;
 color: #FFF;
 text-align: center;
 }
-<!--
+/*
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -43,7 +43,7 @@ body::before {
   background:url(https://torokoid.github.io/hannari/20190417_010.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
--->
+*/
 
 body {
 background-color: rgba(0, 225, 0, 0.4); 
@@ -79,25 +79,17 @@ screen and (orientation: landscape) {
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="IMG.pdf" data-lightbox="abc"><img src="IMG.pdf" alt="サンプル画像" width="900" /></a>
-<a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_003.jpg" data-lightbox="abc"><img src="20190417_003.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_004.jpg" data-lightbox="abc"><img src="20190417_004.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_005.jpg" data-lightbox="abc"><img src="20190417_005.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_006.jpg" data-lightbox="abc"><img src="20190417_006.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_007.jpg" data-lightbox="abc"><img src="20190417_007.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_008.jpg" data-lightbox="abc"><img src="20190417_008.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_009.jpg" data-lightbox="abc"><img src="20190417_009.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_010.jpg" data-lightbox="abc"><img src="20190417_010.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_011.jpg" data-lightbox="abc"><img src="20190417_011.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_012.jpg" data-lightbox="abc"><img src="20190417_012.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_013.jpg" data-lightbox="abc"><img src="20190417_013.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_014.jpg" data-lightbox="abc"><img src="20190417_014.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_015.jpg" data-lightbox="abc"><img src="20190417_015.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_016.jpg" data-lightbox="abc"><img src="20190417_016.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_017.jpg" data-lightbox="abc"><img src="20190417_017.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190417_018.jpg" data-lightbox="abc"><img src="20190417_018.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/oizumi/sample.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/oizumi/sample.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20190429_001.jpg" data-lightbox="abc"><img src="20190429_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0001.pdf" data-lightbox="abc"><img src="IMG_0001.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0002.pdf" data-lightbox="abc"><img src="IMG_0002.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0003.pdf" data-lightbox="abc"><img src="IMG_0003.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0004.pdf" data-lightbox="abc"><img src="IMG_0004.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0005.pdf" data-lightbox="abc"><img src="IMG_0005.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0006.pdf" data-lightbox="abc"><img src="IMG_0006.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0007.pdf" data-lightbox="abc"><img src="IMG_0007.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0008.pdf" data-lightbox="abc"><img src="IMG_0008.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0009.pdf" data-lightbox="abc"><img src="IMG_0009.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0010.pdf" data-lightbox="abc"><img src="IMG_0010.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG_0011.pdf" data-lightbox="abc"><img src="IMG_0011.pdf" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
