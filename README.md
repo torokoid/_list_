@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/1978/20190607_039.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/shiba/20190603_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -67,7 +67,7 @@ screen and (orientation: landscape) {
 <body onload="alert('雪路はんなりの会の記録〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 <div>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 吉祥寺 雪路 はんなりの会 2013?~2019年の記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 各クラス名簿 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>はんなりの会</p>
 
 
