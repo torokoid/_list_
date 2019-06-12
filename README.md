@@ -78,7 +78,7 @@ screen and (orientation: landscape) {
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a href="/blob/master/IMG.pdf" data-lightbox="abc"><img src="2/blob/master/IMG.pdf" alt="サンプル画像" width="900" /></a>
+<a href="IMG.pdf" data-lightbox="abc"><img src="IMG.pdf" alt="サンプル画像" width="900" /></a>
 <a href="20190417_002.jpg" data-lightbox="abc"><img src="20190417_002.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190417_003.jpg" data-lightbox="abc"><img src="20190417_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190417_004.jpg" data-lightbox="abc"><img src="20190417_004.jpg" alt="サンプル画像" width="900" /></a>
