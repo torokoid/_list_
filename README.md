@@ -29,7 +29,7 @@ display: none;
 color: #FFF;
 text-align: center;
 }
-/*
+
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -40,10 +40,9 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hannari/20190417_010.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/1978/20190607_039.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-*/
 
 body {
 background-color: rgba(0, 225, 0, 0.4); 
