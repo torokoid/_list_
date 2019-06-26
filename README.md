@@ -67,15 +67,15 @@ screen and (orientation: landscape) {
 <body onload="alert('雪路はんなりの会の記録〜〜(^o^)/')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 <div>
- <!--
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! クラス会名簿 !!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>><a href="https://torokoid.github.io/oizumi">2019年同期会</a>>クラス会名簿</p>
-<!--
+
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<!--
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190613_001.png" data-lightbox="abc"><img src="20190613_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20190613_002.png" data-lightbox="abc"><img src="20190613_002.png" alt="サンプル画像" width="900" /></a>
@@ -103,10 +103,10 @@ screen and (orientation: landscape) {
 <a href="IMG_0010.pdf" data-lightbox="abc"><img src="IMG_0010.pdf" alt="サンプル画像" width="900" /></a>
 <a href="IMG_0011.pdf" data-lightbox="abc"><img src="IMG_0011.pdf" alt="サンプル画像" width="900" /></a>
 -->
-<!--
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
-<!--
+
 <section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
@@ -118,14 +118,14 @@ screen and (orientation: landscape) {
 
 
 
-<!--
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://torokoid.github.io/oizumi">大泉高校30期のHP　← リンクあり</a>
 
 
-<!--
+
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
