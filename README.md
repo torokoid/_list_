@@ -1,4 +1,4 @@
-# _list_
+# list
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
